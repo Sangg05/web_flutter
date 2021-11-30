@@ -1,6 +1,6 @@
 {
-    "name": "web_demo",
-    "short_name": "web_demo",
+    "name": "guitar_chords_web",
+    "short_name": "guitar_chords_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
